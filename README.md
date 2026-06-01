@@ -2,20 +2,16 @@
 
 ## 📝 About Me
 - 📡 Wireless Communications Engineer and **Ph.D. alumnus of the University of Alberta**.
-- 🔬 My work focuses on **wireless communication systems, mmWave radar systems, WiFi sensing, optimization, AI/ML, and signal processing**.
 - 📨 For research, professional opportunities, or collaboration, feel free to reach out: [zargari@ualberta.ca](mailto:zargari@ualberta.ca)
-
 
 ## 🖥 Skills
 - Wireless Communications
 - Signal Processing
-- Radar Sensing
+- mmWave Radar systems
 - WiFi Sensing
 - Machine Learning
-- Deep Learning
 - Optimization
 - MATLAB / Python / C++ Development
-
 
 ## ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
