@@ -1,5 +1,3 @@
-# Shayan Zargari
-
 ## 📝 About Me
 - 📡 Wireless Communications Engineer and **Ph.D. alumnus of the University of Alberta**.
 - 📨 For research, professional opportunities, or collaboration, feel free to reach out: [zargari@ualberta.ca](mailto:zargari@ualberta.ca)
